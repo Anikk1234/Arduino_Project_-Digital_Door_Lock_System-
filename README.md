@@ -57,7 +57,7 @@ To compile this project, you need the **Arduino IDE** with the **ESP32 Board Man
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/your-username/esp32-door-lock.git](https://github.com/your-username/esp32-door-lock.git)
+    git clone [https://github.com/your-username/esp32-door-lock.git](https://github.com/Anikk1234/Arduino_project_-Digital_Door_Lock_System)
     ```
 2.  Open the `.ino` file in Arduino IDE.
 3.  Update the credentials in the code:
